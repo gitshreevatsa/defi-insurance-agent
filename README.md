@@ -48,7 +48,7 @@ Premium Budget: 0.01 ETH
 ### Step 1: Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/gitshreevatsa/defi-insurance-agent.git
 cd defi-insurance-agent
 npm install
 ```
